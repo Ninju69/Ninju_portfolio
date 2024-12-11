@@ -17,7 +17,7 @@ Please make sure to update tests as appropriate.
 
 ## Original Repo
 Original Repo Link (.pug / .html ) - [Click Me](https://github.com/Ninju69/Ninju_portfolio)🗄️
-Credits - [NinjuDev](https://github.com/NinjuDev)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)🗄️
